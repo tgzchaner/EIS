@@ -1,0 +1,2 @@
+# EnducationInformationSystem
+这是一个基于SpringBoot而产生的教务信息管理系统
